@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Challenge: You can learn text tags</title>
         <meta charset="utf-8">
     </head>
     <body>
