@@ -1,0 +1,2 @@
+# inspiration.github.io
+Inspiration
